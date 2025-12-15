@@ -70,3 +70,9 @@ M.S. in Business Analytics
 Western New England University  
 Course: Business Analytics with Python (BAIM-645)
 Instructor: Murat Aydogdu
+
+
+## Exploratory Data Analysis
+The full exploratory data analysis is available in the Jupyter Notebook:
+- notebooks/exploratory_data_analysis.ipynb
+
